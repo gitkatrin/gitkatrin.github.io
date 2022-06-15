@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages KATY
+## Work Experience
 
-You can use the [editor on GitHub](https://github.com/gitkatrin/gitkatrin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_07.2022 - ongoing_     **Working student in human resources**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Behr-Hella Thermocontrol GmbH (BHTC), Lippstadt in Germany
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_09.2020 - 06.2022_     **Trainee and working student in research and development, software department**
 
-```markdown
-Syntax highlighted code block
+Behr-Hella Thermocontrol GmbH (BHTC), Lippstadt in Germany, Lippstadt in Germany
+- Neural Networks with Keras
+- Implementation in Python
+- Data generation with different camera systems
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+_05.2019 - 08.2019_     **Practical semester in the area of technical service, maintenance**
 
-1. Numbered
-2. List
+HELLA GmbH & Co. KGaA, Hamm Bockum-Hövel in Germany
+ - Optimisation of existing "Total Productive Maintenance" methods: KANBAN, TPM workshop, availability technical for selected lines
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+_04.2018 - 02.2019_     **Student assistant in the "Interaction Technology & Design" lab**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Hamm-Lippstadt University of Applied Sciences, Lippstadt in Germany
+ - Participation in the "Akkuschrauberrennen" in Hildesheim
+ - Setting up the laboratory (e.g. setting up 3D printers)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gitkatrin/gitkatrin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_08.2016 - 07.2017_     **Federal Volunteer Service**
 
-### Support or Contact
+Adult Education Centre Lippstadt (VHS), Lippstadt in Germany
+ - Course management in the area of German as a foreign language
+ - Daily business
+ - Poster and flyer production
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Education
+
+_10.2021 - ongoing_     **Master of Science**
+
+Hamm-Lippstadt University of Applied Sciences, Lippstadt in Germany
+ - Course of study: Technical Consulting and Management
+
+_10.2017 - 07.2021_     **Bachelor of Science**
+
+Hamm-Lippstadt University of Applied Sciences, Lippstadt in Germany
+ - Course of study: Interaction Technology and Design
+ - Focus area: Deep Learning, Cyber-physical Systems
+ - Thesis: "Deep Learning based Hand-Control for Automotive Human-Machine Interaction"
+
+_08.2008 - 06.2016_     **General Matriculation Standard**
+
+Albertus-Magnus-Gymnasium, Beckum in Germany
+ - Focus area: Mathematics, Educational Sciences
+
+
+## Additional Skills and Qualifications
+
+_Languages_
+ - German, native speaker
+ - English, fluent
+
+_Computer Skills_
+ - MS Office (MS Word, MS Excel, MS PowerPoint, Outlook)
+ - Programming languages: Python, Java, C/C++
+ - LaTeX
+ - SolidWorks
+ - Enterprise Architect
+ - Adobe Photoshop
+
+_Driver's License_
+ - European Type B
