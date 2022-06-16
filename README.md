@@ -32,7 +32,7 @@
 &emsp; Hamm-Lippstadt University of Applied Sciences,
 
 &emsp; Lippstadt in Germany
- - Participation in the "Akkuschrauberrennen" in Hildesheim
+ - Participation in the ["Akkuschrauberrennen"](https://youtu.be/HA7wtvf0BAs?list=PLyDUTAQn7hKZaFcKDu9q29UKYiUGE1skn&t=8414) in Hildesheim
  - Setting up the laboratory (e.g. setting up 3D printers)
 
 
@@ -60,7 +60,7 @@
 &emsp; Hamm-Lippstadt University of Applied Sciences,
 
 &emsp; Lippstadt in Germany
- - Course of study: Interaction Technology and Design
+ - Course of study: [Interaction Technology and Design](https://www.youtube.com/watch?v=kPS3BY3Rs4w&list=PLyDUTAQn7hKZaFcKDu9q29UKYiUGE1skn&index=3)
  - Focus area: Deep Learning, Cyber-physical Systems
  - Thesis: "Deep Learning based Hand-Control for Automotive Human-Machine Interaction"
 
