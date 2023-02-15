@@ -2,7 +2,15 @@
 
 ## Work Experience
 
-**_07.2022 - ongoing_ &emsp; &ensp; Working student in human resources**
+**_01.2023 - ongoing_ &emsp; &ensp; Research associate**
+
+&emsp; Hamm-Lippstadt University of Applied Sciences,
+
+&emsp; Lippstadt in Germany
+ - working in the [GAIA-X 4 AGEDA](http://gaiax4ageda.de/) project
+
+
+**_07.2022 - 08.2022_ &emsp; &ensp; Working student in human resources**
 
 &emsp; Behr-Hella Thermocontrol GmbH (BHTC),
 
@@ -48,7 +56,7 @@
 
 ## Education
 
-**_10.2021 - ongoing_ &emsp; &ensp; Master of Science**
+**_10.2021 - 11.2022_ &emsp; &ensp; Master of Science**
 
 &emsp; Hamm-Lippstadt University of Applied Sciences,
 
